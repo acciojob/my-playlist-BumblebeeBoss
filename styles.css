@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+h4{
+	text-align:center;
+	padding-top:5px;
+}
+.a{
+	background-color:#cccccc;
+}
+.player_one{
+	background-color:white;
+	border:0.5px solid grey;
+	border-radius:5px;
+/* 	text-decoration:none;
+	display:flex;
+	flex-direction:column; */
+}
+li{
+	text-decoration: none;
+}
+h5{
+	text-align:center;
+}
+.player_two{
+	display:flex;
+	flex-direction:column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
