@@ -7,6 +7,8 @@ h4{
 	background-color:#cccccc;
 	margin-left:1px;
 	margin-right:1px;
+	display:flex;
+	flex-direction:column;
 }
 .player_one{
 	background-color:white;
@@ -20,11 +22,12 @@ h5{
 	text-align:center;
 }
 .player_two{
-/* 	width:50%; */
-	align:center;
+	margin:50px
+	width:50%;
+/* 	align:center; */
 	border:0.5px solid black;
 	background-color:white;
-/* 	align-content:center; */
+	align-content:center;
 	display:flex;
 	flex-direction:column;
 }
