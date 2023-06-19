@@ -5,14 +5,13 @@ h4{
 }
 .a{
 	background-color:#cccccc;
+	margin-left:1px;
+	margin-right:1px;
 }
 .player_one{
 	background-color:white;
 	border:0.5px solid grey;
 	border-radius:5px;
-/* 	text-decoration:none;
-	display:flex;
-	flex-direction:column; */
 }
 li{
 	text-decoration: none;
@@ -21,10 +20,14 @@ h5{
 	text-align:center;
 }
 .player_two{
+/* 	width:50%; */
+	align:center;
+	border:0.5px solid black;
+	background-color:white;
+/* 	align-content:center; */
 	display:flex;
 	flex-direction:column;
 }
-
 
 
 
