@@ -1,10 +1,13 @@
 /*  your css code here. If applicable */
-h4{
+body{
+	background-color:#cccccc;
+}
+h1{
 	text-align:center;
 	padding-top:5px;
 }
 .a{
-	background-color:#cccccc;
+/* 	background-color:#cccccc; */
 	margin-left:1px;
 	margin-right:1px;
 	display:flex;
